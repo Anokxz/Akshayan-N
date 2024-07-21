@@ -7,3 +7,5 @@
 ---
 > Also I have very good interest in CyberSecurity
 ---
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayan-N&layout=compact" alt="Top Langs"> </td> <td> <img src="https://github-readme-stats.vercel.app/api?username=Akshayan-N&show_icons=true&theme=transparent" alt="Akshayan GitHub stats"> </td> </tr> </table>
+
