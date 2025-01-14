@@ -2,7 +2,7 @@
 
 # About Me
 
-***I am guy, Who loves electronics 🤖, computer 🖥️ and science stuff 🧬***
+***I am a guy, Who loves electronics 🤖, computer 🖥️ and science stuff 🧬***
 
 ---
 > Also I have very good interest in CyberSecurity
